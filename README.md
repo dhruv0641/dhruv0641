@@ -1,21 +1,189 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI-powered automation workflows, LLM applications, prompt engineering, and Python-based AI solutions.<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, Generative AI, LLM applications, AI automation, and open-source AI projects.<br><br>🤝 I’m looking for help with<br>Building production-ready AI applications, improving LLM reliability, and designing scalable AI automation systems.<br><br>🌱 I’m currently learning<br>Advanced LLMs, Generative AI, AI Agents, RAG, AI evaluation, Machine Learning, and AI application development.<br><br>💬 Ask me about<br>Python • AI/ML • LLMs • Prompt Engineering • AI Automation • OpenAI APIs • Ollama • REST APIs • Hugging Face<br><br>⚡ Fun fact<br>I love turning repetitive business tasks into intelligent AI-powered workflows.
+# 👋 Hi, I'm Dhruvkumar Dobariya
 
+### 🤖 AI Engineer | Generative AI | LLM Applications | AI Automation
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruv_00641) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvdobariya) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@DHRUV DOBARIYA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dobariyadhruvv@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dhruv061&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dhruv061&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhruv061&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhruv061&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build AI-powered applications and intelligent automation workflows
+that connect LLMs, APIs, and software systems to solve real-world problems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=dhruv061&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🔭 **I’m currently working on**  
+AI-powered automation workflows, LLM applications, prompt engineering, and Python-based AI solutions.
+
+👯 **I’m looking to collaborate on**  
+AI/ML projects, Generative AI, LLM applications, AI automation, and open-source AI projects.
+
+🤝 **I’m looking for help with**  
+Building reliable production-ready AI applications, improving LLM reliability, and designing scalable AI automation systems.
+
+🌱 **I’m currently learning**  
+Advanced LLMs, Generative AI, AI Agents, RAG, AI evaluation, Machine Learning, and modern AI application development.
+
+💬 **Ask me about**  
+Python • AI/ML • LLMs • Prompt Engineering • AI Automation • OpenAI APIs • Ollama • REST APIs • Hugging Face
+
+⚡ **Fun fact**  
+I love turning repetitive business tasks into intelligent AI-powered workflows.
+
+---
+
+# 🧠 AI Focus
+
+- 🤖 Large Language Models
+- ✨ Generative AI
+- 🧩 Prompt Engineering
+- ⚙️ AI Automation
+- 🧠 AI Agents
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 📊 AI Evaluation
+- 🔌 AI & API Integration
+- 🐍 Python AI Development
+- 🚀 Production AI Applications
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 ZeroMe-AI
+
+AI-powered phishing and scam detection platform designed around
+AI-assisted analysis and a zero-trust security workflow.
+
+**Focus:** AI • Security • Real-Time Analysis • Intelligent Detection
+
+🔗 **Repository:**  
+https://github.com/dhruv0641/ZeroMe-AI
+
+---
+
+## 🧠 AI Portfolio
+
+AI-focused portfolio/application project integrating modern web
+technologies with Generative AI capabilities.
+
+**Focus:** Generative AI • Gemini • AI Applications • TypeScript • Docker
+
+🔗 **Repository:**  
+https://github.com/dhruv0641/Portfolio
+
+---
+
+## 🌐 Personal Portfolio
+
+Modern portfolio application built using Next.js and TypeScript,
+with database integration and modern deployment technologies.
+
+**Focus:** Next.js • TypeScript • Supabase • Full-Stack Development
+
+🔗 **Repository:**  
+https://github.com/dhruv0641/DD-portfolio
+
+---
+
+# 💻 Tech Stack
+
+## 🤖 AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+## 🧠 LLM & Generative AI
+
+![LLM](https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-00A67E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-008080?style=for-the-badge)
+
+## ⚙️ Backend & APIs
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## 🌐 Web Development
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+## 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+## 🛠️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhruv0641&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv0641&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=dhruv0641&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv0641&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Direction
+
+```text
+                    AI ENGINEERING
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+   Generative AI    LLM Engineering   AI Automation
+        │                │                │
+        ├── LLMs        ├── RAG         ├── Workflows
+        ├── GenAI       ├── AI Agents   ├── APIs
+        └── Models      └── Evaluation  └── Integration
+                         │
+                         ▼
+              Production AI Applications
