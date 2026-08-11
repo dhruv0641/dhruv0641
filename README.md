@@ -144,9 +144,9 @@ https://github.com/dhruv0641/DD-portfolio
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhruv0641&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruv0641&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv0641&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhruv0641&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
 </p>
 
@@ -156,7 +156,7 @@ https://github.com/dhruv0641/DD-portfolio
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dhruv0641&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.vercel.app/?user=dhruv0641&theme=tokyonight&hide_border=true"/>
 
 </p>
 
