@@ -44,44 +44,6 @@ I love turning repetitive business tasks into intelligent AI-powered workflows.
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 ZeroMe-AI
-
-AI-powered phishing and scam detection platform designed around
-AI-assisted analysis and a zero-trust security workflow.
-
-**Focus:** AI • Security • Real-Time Analysis • Intelligent Detection
-
-🔗 **Repository:**  
-https://github.com/dhruv0641/ZeroMe-AI
-
----
-
-## 🧠 AI Portfolio
-
-AI-focused portfolio/application project integrating modern web
-technologies with Generative AI capabilities.
-
-**Focus:** Generative AI • Gemini • AI Applications • TypeScript • Docker
-
-🔗 **Repository:**  
-https://github.com/dhruv0641/Portfolio
-
----
-
-## 🌐 Personal Portfolio
-
-Modern portfolio application built using Next.js and TypeScript,
-with database integration and modern deployment technologies.
-
-**Focus:** Next.js • TypeScript • Supabase • Full-Stack Development
-
-🔗 **Repository:**  
-https://github.com/dhruv0641/DD-portfolio
-
----
-
 # 💻 Tech Stack
 
 ## 🤖 AI & Machine Learning
@@ -137,18 +99,6 @@ https://github.com/dhruv0641/DD-portfolio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruv0641&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhruv0641&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-</p>
 
 ---
 
