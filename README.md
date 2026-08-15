@@ -4,6 +4,7 @@
 
 I build AI-powered applications and intelligent automation workflows
 that connect LLMs, APIs, and software systems to solve real-world problems.
+Just ping me if you want to collaborate on any AI project.
 
 ---
 
