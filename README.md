@@ -106,7 +106,7 @@ I love turning repetitive business tasks into intelligent AI-powered workflows.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dhruv0641&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.vercel.app/?user=dhruv0641&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 </p>
 
