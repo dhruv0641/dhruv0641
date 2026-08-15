@@ -1,11 +1,26 @@
-# 👋 Hi, I'm Dhruvkumar Dobariya
+<h1 align="center">👋 Hi, I'm <a href="https://dhruvkumar.tech" target="_blank">Dhruvkumar Dobariya</a></h1>
 
-### 🤖 AI Engineer | Generative AI | LLM Applications | AI Automation
+<h3 align="center">🤖 AI Engineer | Generative AI | LLM Applications | AI Automation</h3>
 
-I build AI-powered applications and intelligent automation workflows
-that connect LLMs, APIs, and software systems to solve real-world problems.
-Just ping me if you want to collaborate on any AI project.
-you can visit my website at [https://dhruvkumar.tech](https://dhruvkumar.tech)
+<p align="center">
+  <a href="https://dhruvkumar.tech" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-dhruvkumar.tech-0A66C2?style=for-the-badge" alt="Website"/>
+  </a>
+  <a href="https://github.com/dhruv0641" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-dhruv0641-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Applications+%F0%9F%9A%80;LLM+Engineering+%7C+RAG+%7C+AI+Agents+%F0%9F%A4%96;Turning+Ideas+into+Intelligent+Workflows+%E2%9A%A1;Open+to+AI+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I build <strong>AI-powered applications</strong> and <strong>intelligent automation workflows</strong><br/>
+  that connect LLMs, APIs, and software systems to solve real-world problems.<br/><br/>
+  💡 <em>Got an AI project idea? Let's collaborate — just ping me!</em>
+</p>
+
 ---
 
 # 💫 About Me
