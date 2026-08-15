@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://dhruvkumar.tech" target="_blank">Dhruvkumar Dobariya</a></h1>
 
-<h3 align="center">🤖 AI Engineer | Generative AI | LLM Applications | AI Automation</h3>
+<h3 align="center">🤖 AI Engineer | Generative AI | LLM Applications | AI Automations</h3>
 
 <p align="center">
   <a href="https://dhruvkumar.tech" target="_blank">
